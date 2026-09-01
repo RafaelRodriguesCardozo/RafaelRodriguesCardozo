@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== BANNER PRINCIPAL — BOOT DO SISTEMA ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00fff2&fontAlignY=38&animation=fadeIn&desc=INITIALIZING%20PROFILE%20OF%20RAFAEL101003...&descAlignY=58&descSize=16&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00fff2&fontAlignY=38&animation=fadeIn&desc=INITIALIZING%20PROFILE%20OF%20RafaelRodriguesCardozo...&descAlignY=58&descSize=16&descAlign=50" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://github.com/RafaelRodriguesCardozo">
